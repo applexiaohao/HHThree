@@ -1,0 +1,12 @@
+#文件
+/UnityNGUILesson/Assembly-CSharp-Editor-vs.csproj
+/UnityNGUILesson/Assembly-CSharp-Editor.csproj
+/UnityNGUILesson/Assembly-CSharp-vs.csproj
+/UnityNGUILesson/Assembly-CSharp.csproj
+/UnityNGUILesson/UnityNGUILesson-csharp.sln
+/UnityNGUILesson/UnityNGUILesson.sln
+/UnityNGUILesson/UnityNGUILesson.userprefs.userprefs
+# 文件夹
+/UnityNGUILesson/Library/
+/UnityNGUILesson/obj/
+/UnityNGUILesson/Temp/
